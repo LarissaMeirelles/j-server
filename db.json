@@ -1,0 +1,84 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "filme": "Adão negro",
+      "produtora": "Warner Bros. Pictures",
+      "diretor": "Jaume collet-Serra",
+      "horario": "20:30 Dublado / 21:30 Legendado"
+    },
+    {
+      "id": 2,
+      "filme": "Pantera Negra: Wakanda Para Sempre",
+      "produtora": "Walt Disney Studios Motion Pictures",
+      "diretor": "Ryan Coogler",
+      "horario": "18:00 Dublado / 19:00 Legendado"
+    },
+    {
+      "id": 3,
+      "filme": "A luz do demônio",
+      "produtora": "Lionsgate Films",
+      "diretor": "Daniel Stamm",
+      "horario": "22:00 Dublado/ 23:00 Legendado"
+    },
+    {
+      "id": 4,
+      "filme": "One Piece Film: Red",
+      "produtora": "Toei Animation",
+      "diretor": "Gorō Taniguchi",
+      "horario": "15:00 Dublado / 16:00 Legendado"
+    }
+  ],
+  "bomboniere": [
+    {
+      "id": 1,
+      "nome": "Combo Kids",
+      "combo": "Refrigerante pequeno, pipoca pequena",
+      "preço": "R$20,00"
+    },
+    {
+      "id": 2,
+      "nome": "Combo Adulto",
+      "combo": "Pipoca média e Refrigerante médio",
+      "preço": "R$30,00"
+    },
+    {
+      "id": 3,
+      "nome": "Combo Max",
+      "combo": "Pipoca grande e Refrigerante grande",
+      "preço": "R$40,00"
+    },
+    {
+      "id": 4,
+      "nome": "Combo Casal",
+      "combo": "Duas Pipocas grandes e dois Refrigerantes grandes",
+      "preço": "R$65,00"
+    }
+  ],
+  "cinemas": [
+    {
+      "id": 1,
+      "local": "Cinema Via Parque",
+      "endereço": "2º Andar Via Parque Shopping, Av. Ayrton Senna, 3000 - Barra da Tijuca, Rio de Janeiro - RJ, 22775-904",
+      "rede": "Kinoplex"
+    },
+    {
+      "id": 2,
+      "local": "Cinema Recreio Shopping",
+      "endereço": "Av. das Américas, 19019 - Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22790-703",
+      "rede": "Cinesystem"
+    },
+    {
+      "id": 3,
+      "local": "Cinema Americas Shopping",
+      "endereço": "Avenida das Américas, 15500 Américas Shopping - Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22790-702",
+      "rede": "Cinesystem"
+    },
+    {
+      "id": 4,
+      "local": "Cinema Downtown",
+      "endereço": "Av. das Américas, 17 - 2º piso - Barra da Tijuca, Rio de Janeiro - RJ, 22640-100",
+      "rede": "Cinemark"
+    }
+  ]
+}
